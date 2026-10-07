@@ -5,6 +5,6 @@ pandas
 pillow
 matplotlib
 scikit-learn
-tensorflow==2.15.1
-tf-keras==2.15.1
+tensorflow==2.16.1
+tf-keras==2.16.0
 deepface==0.0.93
